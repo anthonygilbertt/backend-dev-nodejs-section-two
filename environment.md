@@ -5,6 +5,10 @@
 - Install nvm:
   ```
   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+  
+  or Wget:
+
+  wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
   ```
 - Create your bash profile `touch ~/.bash_profile`
 - Open your bash profile `vim .bash_profile`
